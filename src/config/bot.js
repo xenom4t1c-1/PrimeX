@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "JOIN PXRRP BETA TEST: https://discord.gg/CaC7eV6TkM",
+        name: "CURRENTLY IN BETA TEST",
         // Activity type number (0 = Playing).
         type: 0,
       },
