@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "51.79.249.13:7826 (BETA TEST)",
+        name: "samp.pxr-rp.site:7826 (BETA TEST)",
         // Activity type number (0 = Playing).
         type: 0,
       },
